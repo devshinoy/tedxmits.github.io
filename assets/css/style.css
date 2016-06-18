@@ -9,6 +9,11 @@ html, body, .container-table {
     vertical-align: middle;
 }
 
+.vertical-bottom-row{
+  display: table-cell;
+  vertical-align: bottom;
+}
+
 body {
   background-color: #000000;
   padding:0;
