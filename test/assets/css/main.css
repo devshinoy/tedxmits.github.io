@@ -54,6 +54,35 @@ img {
     color: #e62b1e;
   font-weight: 400;
 }
+
+.section-ti {
+  text-align: center;
+   vertical-align: middle;
+  font-size: 30px;
+  font-weight: 400;
+  color: #000000;
+  margin: 0 10px;
+  padding: 0;
+  margin-bottom: 50px;
+}
+.section-ti span {
+    color: #e62b1e;
+  font-weight: 400;
+}
+
+.section-tite{
+  text-align: center;
+   vertical-align: middle;
+  font-size: 20px;
+  font-weight: 400;
+  color: #000000;
+  margin: 0 10px;
+  padding: 0;
+  margin-bottom: 50px;
+}
+
+
+
 .lg {
   width: 260px;
 }
@@ -143,8 +172,7 @@ img {
 /* Header Section Start */
 #header {
   width: 100%;
-  background: url(../img/backgrounds/banner.jpg);
-  background-size: cover;
+   background-size: cover;
   background-repeat: no-repeat;
   position: relative;
   color: #ffffff;
@@ -679,3 +707,6 @@ img {
   color: #000000;
 }
 /* Footer Section End */
+
+
+
