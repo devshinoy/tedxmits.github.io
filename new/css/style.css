@@ -5,7 +5,7 @@
  * Thanks for MaterializeCSS.com
  */
 
-.default_color{background-color: #2196F3 !important}
+.default_color{background-color: #fff !important}
 
 .default_color_text{color: #2196F3 !important}
 
@@ -36,7 +36,7 @@
 }
 
 .brand-logo{
-    position: absolute;
+    position: relative;
     color: #fff;
     display: inline-block;
     font-size: 2.1rem;
