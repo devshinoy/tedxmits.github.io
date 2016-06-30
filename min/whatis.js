@@ -67,6 +67,9 @@ $(document).ready(function() {
       },10);
       state = state + 1;
       $('.collapsible').collapsible();
+      if(state === 2){
+        $('#slide_btn').hide();   
+      }
   }
 
 });
